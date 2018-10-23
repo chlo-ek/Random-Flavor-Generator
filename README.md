@@ -30,7 +30,7 @@ Once installed and ready for use, open your computer's terminal, and input `"ran
 
 ## Contributing 
 
-![Help](https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif)
+![Help](https://media.giphy.com/media/gw3MYmhxEv8T52ow/giphy.gif)
 
 Pull requests are welcome from all. For adding new flavors, simply submit a recommendation. For major changes, please open an issue first to discuss what you would like to change.
 
