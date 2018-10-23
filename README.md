@@ -24,13 +24,13 @@ Random Flavor Generator is a program designer for dealing with the problem of no
 
 ## Usage
 
-[Usage](https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif)
+![Usage](https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif)
 
 Once installed and ready for use, open your computer's terminal, and input `"randomflavorgenerator"`. Once the you hit enter, a window will appear on the screen with the prompt, `"Would you like to try a new flavor?"`, and 2 buttons. If `"Yes"` is selected, 1 out of the 500 possible flavors will be outputted to the screen. If `"No"` is selected, the message, `"Ok, maybe next time!"`, will be outputted and the program will end.
 
 ## Contributing 
 
-[Help](https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif)
+![Help](https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif)
 
 Pull requests are welcome from all. For adding new flavors, simply submit a recommendation. For major changes, please open an issue first to discuss what you would like to change.
 
